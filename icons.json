@@ -1,0 +1,10 @@
+{
+  "name": "Forward Icons",
+  "description": "Custom icon library",
+  "icons": [
+    {
+      "name": "key",
+      "url": "https://cdn.jsdelivr.net/gh/loser-viewer/forward-icon@main/image/IMG_2129_CocoAI_20260309_215603_1.png"
+    }
+  ]
+}
